@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "core:blocks/ashwooddoorbottom",
+    "top": "core:blocks/ashwooddoortop"
+  }
+}

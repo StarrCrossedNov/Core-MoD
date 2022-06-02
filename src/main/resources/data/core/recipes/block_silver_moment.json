@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    },
+    {
+      "item": "core:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "core:silver_block",
+    "count": 1
+  }
+}

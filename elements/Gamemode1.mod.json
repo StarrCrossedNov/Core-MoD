@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "command",
+  "definition": {
+    "commandName": "Gamemode 1",
+    "permissionLevel": "1",
+    "onCommandExecuted": {
+      "name": "Gamemode1CommandExecuted"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "core:blocks/silverorestone",
+    "particle": "core:blocks/silverorestone"
+  }
+}

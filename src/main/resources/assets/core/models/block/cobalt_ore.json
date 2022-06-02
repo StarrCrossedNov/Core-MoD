@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "core:blocks/cobaltore",
+    "up": "core:blocks/cobaltore",
+    "north": "core:blocks/cobaltore",
+    "east": "core:blocks/cobaltore",
+    "south": "core:blocks/cobaltore",
+    "west": "core:blocks/cobaltore",
+    "particle": "core:blocks/cobaltore"
+  }
+}

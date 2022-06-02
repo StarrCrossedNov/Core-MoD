@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "core:blocks/ashtreeleaves",
+    "particle": "core:blocks/ashtreeleaves"
+  }
+}

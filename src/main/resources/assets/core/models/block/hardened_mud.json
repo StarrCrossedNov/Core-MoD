@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "core:blocks/mudhard",
+    "up": "core:blocks/mudhard",
+    "north": "core:blocks/mudhard",
+    "east": "core:blocks/mudhard",
+    "south": "core:blocks/mudhard",
+    "west": "core:blocks/mudhard",
+    "particle": "core:blocks/mudhard"
+  }
+}

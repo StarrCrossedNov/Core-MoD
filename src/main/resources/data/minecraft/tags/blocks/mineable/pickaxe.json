@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "core:silver_ore",
+    "core:silver_ore_deep",
+    "core:silver_block",
+    "core:cobalt_ore",
+    "core:deepslate_cobalt",
+    "core:soul_quartz_blocks",
+    "core:rhyolite",
+    "core:soul_quartz_ore"
+  ]
+}

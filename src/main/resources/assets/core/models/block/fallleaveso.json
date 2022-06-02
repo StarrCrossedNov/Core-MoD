@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "core:blocks/fallleaves1",
+    "up": "core:blocks/fallleaves1",
+    "north": "core:blocks/fallleaves1",
+    "east": "core:blocks/fallleaves1",
+    "south": "core:blocks/fallleaves1",
+    "west": "core:blocks/fallleaves1",
+    "particle": "core:blocks/fallleaves1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "core:blocks/silveroredeepslate",
+    "particle": "core:blocks/silveroredeepslate"
+  }
+}

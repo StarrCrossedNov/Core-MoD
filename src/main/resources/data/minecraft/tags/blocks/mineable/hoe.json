@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "core:fallleaveso",
+    "core:fall_leaves_y",
+    "core:fall_leaves_r",
+    "core:cherry_leaves",
+    "core:ashwood_leaves"
+  ]
+}

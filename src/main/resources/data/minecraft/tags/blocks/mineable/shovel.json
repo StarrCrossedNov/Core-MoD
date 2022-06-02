@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "core:hardened_mud",
+    "core:mud_bricks"
+  ]
+}

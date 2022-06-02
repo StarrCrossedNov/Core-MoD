@@ -1,0 +1,20 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.7,
+    "cookingTime": 460,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:RawSilver"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SilverIngot"
+    },
+    "name": "silver_cook",
+    "namespace": "mod"
+  }
+}

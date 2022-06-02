@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "core:blocks/fallleaves3",
+    "particle": "core:blocks/fallleaves3"
+  }
+}

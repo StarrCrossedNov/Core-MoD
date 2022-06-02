@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "core:blocks/soulquartzblockbottom",
+    "up": "core:blocks/soulquartzblockside",
+    "north": "core:blocks/soulquartzblockside",
+    "east": "core:blocks/soulquartzblockside",
+    "south": "core:blocks/soulquartzblockside",
+    "west": "core:blocks/soulquartzblockside",
+    "particle": "core:blocks/soulquartzblockbottom"
+  }
+}

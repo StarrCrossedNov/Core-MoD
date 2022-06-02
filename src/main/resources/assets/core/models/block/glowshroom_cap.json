@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "core:blocks/glowshroomhead",
+    "up": "core:blocks/glowshroomhead",
+    "north": "core:blocks/glowshroomhead",
+    "east": "core:blocks/glowshroomhead",
+    "south": "core:blocks/glowshroomhead",
+    "west": "core:blocks/glowshroomhead",
+    "particle": "core:blocks/glowshroomhead"
+  }
+}
